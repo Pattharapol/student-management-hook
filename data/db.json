@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "id": "61322420115",
+            "name": "Pattharapol Lakboon",
+            "age": 25,
+            "faculty": "Computer Science"
+        },
+        {
+            "id": "61322420116",
+            "name": "Pattharapol Lakboon2",
+            "age": 26,
+            "faculty": "Computer Science2"
+        },
+        {
+            "id": "61322420117",
+            "name": "Pattharapol Lakboon3",
+            "age": 27,
+            "faculty": "Computer Science3"
+        },
+        {
+            "id": "61322420118",
+            "name": "Pattharapol Lakboon4",
+            "age": 28,
+            "faculty": "Computer Science4"
+        },
+        {
+            "id": "61322420119",
+            "name": "Pattharapol Lakboon5",
+            "age": 29,
+            "faculty": "Computer Science5"
+        }
+    ]
+}
